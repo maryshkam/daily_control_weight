@@ -1,0 +1,55 @@
+.modal {
+  /* display: block; */
+  display: flex;
+  width: 50%;
+  height: 50vh;
+  margin: 2rem auto;
+  /* box-shadow: 3 px solid #000; */
+  border: 3px solid #999;
+  background-color: rgb(182, 223, 149);
+  /* outline: 1 px solid red; */
+}
+
+.startForm {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.label-style {
+  flex-basis: 90%;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  margin: auto;
+}
+
+.label-text {
+  width: 25%;
+}
+
+.input-box {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: auto;
+  
+}
+.input {
+  /* display: block; */
+  width: 40%;
+  height: 2rem;
+  /* margin: 0 5rem; */
+  
+  text-align: center;
+
+}
+
+.btn_save {
+  /* display: block; */
+  margin: auto;
+  font-size: 2rem;
+  /* padding: 2rem; */
+  
+}

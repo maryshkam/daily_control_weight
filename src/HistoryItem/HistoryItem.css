@@ -1,0 +1,32 @@
+.history {
+display: flex;
+flex-basis: 60%;
+justify-content: space-around;
+border: 1px solid #999;
+margin: auto;
+margin-bottom: 1rem;
+background-color: rgb(231, 235, 229);
+}
+
+.history_ident {
+  text-align: center;
+  width: 35%;
+}
+
+.weight_history {
+  text-align: center;
+  width: 35%;
+}
+
+.history_weight {
+  font-size: 1.5rem;
+}
+
+.history_diff{
+  text-align: center;
+  width: 35%;
+}
+
+.kg {
+  font-size: 1rem;
+}

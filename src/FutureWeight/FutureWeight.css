@@ -1,0 +1,14 @@
+.futureWeight_box {
+  padding: 1rem; 
+  border: 1px solid #999;
+  /* margin: auto; */
+  text-align: center;
+  min-width: 200px;
+}
+
+/* .future_box */
+.result_future {
+  color: red;
+  font-size: 3rem;
+
+}

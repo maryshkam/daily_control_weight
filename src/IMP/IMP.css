@@ -1,0 +1,28 @@
+.weight_box {
+  display: flex;
+  width: 60%;
+  margin: auto;
+  justify-content: space-around;
+  
+}
+
+
+.spedometer {
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  width: 60%;
+  height: 300px;
+  margin: auto;
+  align-items: center;
+  /* align-content: center; */
+  
+}
+
+.imt {
+  text-align: center;
+  /* display: block; */
+  /* margin: auto; */
+  }
+  
+

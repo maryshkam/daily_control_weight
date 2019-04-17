@@ -1,0 +1,75 @@
+.weight_control {
+  display: flex;
+  width: 40%;
+  background-color: rgb(221, 238, 207);
+  margin: auto;
+  flex-direction: column;
+  padding-bottom: 2rem;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+.saveWeight {
+text-decoration: none;
+border: 1px solid #fff;
+background-color: #fff;
+padding: .2rem 1rem;
+border-radius: 5px;
+display:inline-block;
+
+}
+
+.weight_header {
+  line-height: 4rem;
+  margin: auto;
+  width: 40%;
+  /* height: 3em; */
+  background-color: rgb(114, 212, 34);
+  text-align: center;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.box_button {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+
+}
+
+.label_new {
+  display: flex;
+  flex-basis: 100%;
+  padding: 1rem;
+  
+  justify-content: space-around;
+  /* align-items: baseline; */
+  margin: auto;
+ 
+}
+
+.label {
+  display: flex;
+  flex-basis: 90%;
+  padding: 1rem 0;
+  /* display: flex; */
+  justify-content: space-around;
+  align-items: baseline;
+  margin: auto;
+}
+
+.label_weight {
+ width: 40%;
+ justify-content: center;
+}
+.input-box-weight {
+margin: auto;
+width: 80%;
+}
+
+.label_date {
+  width: 50%;
+  justify-content: flex-start;
+  text-align: center;
+ }

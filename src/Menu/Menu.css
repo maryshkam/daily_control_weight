@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  margin: auto;
+  width: 50%;
+  justify-content: space-around;
+  margin-bottom: 1rem;
+}
+
+.menu-item {
+  border: 1px solid #999;
+  text-decoration: none;
+  padding: 1rem;
+  font-size: 1rem;
+  min-width: 70px;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.current_box {
+  padding: 1rem;
+  border: 1px solid #999;
+  /* margin: auto; */
+  text-align: center;
+  min-width: 200px;
+
+}
+.title {
+  font-size: 1rem;
+}
+
+.result {
+  font-size: 3rem;
+}
